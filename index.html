@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Your Name - Portfolio</title>
+  <style>
+    :root {
+      --main-bg: #18181b;
+      --main-fg: #f4f4f5;
+      --accent: #7c3aed;
+      --card-bg: #232328;
+      --radius: 16px;
+      --shadow: 0 4px 24px #0002;
+    }
+    body {
+      background: var(--main-bg);
+      color: var(--main-fg);
+      font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0 16px;
+    }
+    .container {
+      max-width: 650px;
+      width: 100%;
+      margin-top: 64px;
+      padding: 32px;
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+    .avatar {
+      width: 96px;
+      height: 96px;
+      border-radius: 50%;
+      margin: 0 auto 16px auto;
+      background: #333;
+      object-fit: cover;
+      box-shadow: 0 2px 8px #0003;
+    }
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 8px 0;
+      text-align: center;
+      letter-spacing: 1px;
+    }
+    p {
+      margin: 0;
+      text-align: center;
+      color: #bdbdbd;
+    }
+    .section-title {
+      margin: 0 0 12px 0;
+      font-size: 1.2rem;
+      color: var(--accent);
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
+    .projects {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .project {
+      background: #18181b;
+      border-radius: var(--radius);
+      padding: 18px 20px;
+      box-shadow: 0 2px 12px #0001;
+      transition: box-shadow 0.2s;
+    }
+    .project:hover {
+      box-shadow: 0 6px 24px #7c3aed40;
+    }
+    .project-title {
+      font-size: 1rem;
+      margin: 0 0 4px 0;
+      color: var(--accent);
+      font-weight: 500;
+    }
+    .project-desc {
+      color: #c7c7c7;
+      font-size: 0.96rem;
+    }
+    .links {
+      display: flex;
+      justify-content: center;
+      gap: 18px;
+      margin-top: 8px;
+    }
+    .links a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 1.15rem;
+      padding: 6px 10px;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+    .links a:hover {
+      background: #7c3aed20;
+    }
+    @media (max-width: 600px) {
+      .container { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Avatar">
+    <h1>Your Name</h1>
+    <p>Short tagline or about me goes here. (e.g. Developer. Maker. Minimalist.)</p>
+
+    <div>
+      <div class="section-title">Projects</div>
+      <div class="projects">
+        <div class="project">
+          <div class="project-title">Project One</div>
+          <div class="project-desc">A short description of your first project. <a href="#">[GitHub]</a></div>
+        </div>
+        <div class="project">
+          <div class="project-title">Project Two</div>
+          <div class="project-desc">Description of another cool project. <a href="#">[Website]</a></div>
+        </div>
+        <div class="project">
+          <div class="project-title">Project Three</div>
+          <div class="project-desc">One more project summary. <a href="#">[More]</a></div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="section-title">Contact</div>
+      <div class="links">
+        <a href="mailto:youremail@example.com">Email</a>
+        <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+        <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

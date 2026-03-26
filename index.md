@@ -8,6 +8,10 @@ I’m a software engineer and researcher building tools across open-source scien
 
 My work sits at the intersection of engineering and applied research. I’ve contributed to open-source SDKs for realistic hand interaction in VR, AR systems for natural face-to-face communication, brain visualization tools, and semi-automated intracranial electrode localization workflows. I enjoy building software that is technically strong, practical to use, and meaningful in research or clinical settings.
 
+## Skills
+
+MATLAB, Python, C++, C#, PyTorch, XR, Unity3D, Unreal Engine, Git, Docker, Adobe (Photoshop, Lightroom, Premiere Pro)
+
 ## Work Experience
 - September 2023 - Present: Programmer Analyst II
   - USC Viterbi School of Engineering - Biomedical Imaging Lab, Loas Angeles, CA, USA

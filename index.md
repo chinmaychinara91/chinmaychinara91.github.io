@@ -34,15 +34,23 @@ My work sits at the intersection of engineering and applied research. I’ve con
 ## Education
 
 <div style="display: flex; justify-content: space-between;">
-  <span>M.S. in Electrical Engineering (University of Southern California); GPA: 3.75/4.0</span>
+  <span>M.S. in Electrical Engineering (University of Southern California)</span>
   <span><strong>Aug 2016 – May 2018</strong></span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span>B.Tech. in Electronics and Communication (Siksha ’O’ Anushandhan University); GPA: 9.61/10.0</span>
+  <span>B.Tech. in Electronics and Communication (Siksha ’O’ Anushandhan University)</span>
   <span><strong>July 2009 – June 2013</strong></span>
 </div>
 
+
+
+
+
 {% include_relative _includes/publications.md %}
+
+
+
+
 
 <!-- {% include_relative _includes/services.md %} -->

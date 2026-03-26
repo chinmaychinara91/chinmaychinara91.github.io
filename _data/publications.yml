@@ -1,13 +1,13 @@
 main:
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: sEEG-Suite: An Interactive Pipeline for Semi-Automated Contact Localization and Anatomical Labeling with Brainstorm
+    authors: Chinmay Chinara, Raymundo Cassani, Takfarinas Medani, Anand A Joshi, Samuel Medina Villalon, Yash S Vakilna, Johnson P Hampson, Kenneth Taylor, Francois Tadel, Dileep Nair, Christian G Bénar, Sylvain Baillet, John C Mosher, Richard M Leahy
+    conference_short: bioRxiv
+    pdf: https://www.biorxiv.org/content/10.1101/2025.09.16.676602v1.full.pdf
+    code: https://github.com/brainstorm-tools/brainstorm3
+    tutorial: https://neuroimage.usc.edu/brainstorm/seeg/ct2mri
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/seegsuite.png
+    notes: under review at [JOSS](https://github.com/openjournals/joss-reviews/issues/9190)
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

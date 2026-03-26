@@ -44,3 +44,12 @@ main:
     code: https://github.com/chinmaychinara91/open-medical-gesture
     page: https://openaccess.cms-conferences.org/publications/book/978-1-958651-26-1/article/978-1-958651-26-1_0
     image: ./assets/img/openmg.png
+  
+  - title: "Learning Formation of Physically-Based Face Attributes"
+    authors: Ruilong Li, Karl Bladin, Yajie Zhao, <em><strong>Chinmay Chinara</strong></em>, Owen Ingraham, Pengda Xiang, Xinglei Ren, Pratusha Prasad, Bipin Kishore, Jun Xing, Hao Li
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR, 2020)
+    pdf: https://arxiv.org/pdf/2004.03458.pdf
+    code: https://github.com/ICT-VGL/ICT-FaceKit
+    page: https://vgl.ict.usc.edu/Research/Deep3DMM/
+    image: ./assets/img/ictfacekit.png

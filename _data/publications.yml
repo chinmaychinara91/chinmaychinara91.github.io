@@ -26,3 +26,12 @@ main:
     code: https://github.com/brainstorm-tools/brainstorm3
     page: https://neuroimage.usc.edu/brainstorm/seeg/SeizureFingerprinting
     image: ./assets/img/timefreq.jpg
+  
+  - title: "Face to Face Augmented Reality - Broadening the Horizons of AR Communication"
+    authors: Aakash Dhananjay Shanbhag; <em><strong>Chinmay Chinara</strong></em>
+    conference_short: ICECET
+    conference: International Conference on Electrical, Computer and Energy Technologies (ICECET 2023)
+    pdf: https://www.researchgate.net/publication/377617681_Face_to_Face_Augmented_Reality_-_Broadening_the_Horizons_of_AR_Communication
+    code: https://github.com/brainstorm-tools/brainstorm3
+    page: https://neuroimage.usc.edu/brainstorm/seeg/SeizureFingerprinting
+    image: ./assets/img/face2face.png

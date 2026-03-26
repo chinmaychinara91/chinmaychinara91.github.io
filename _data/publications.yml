@@ -6,7 +6,7 @@ main:
     code: https://github.com/brainstorm-tools/brainstorm3
     page: https://neuroimage.usc.edu/brainstorm/seeg/ct2mri
     image: ./assets/img/seegsuite.png
-    notes: under review at [JOSS](https://github.com/openjournals/joss-reviews/issues/9190)
+    notes: under review at <a href="https://github.com/openjournals/joss-reviews/issues/9190">JOSS</a>
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

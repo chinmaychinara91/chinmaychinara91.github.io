@@ -30,3 +30,19 @@ My work sits at the intersection of engineering and applied research. I’ve con
 - August 2013 - July 2016: In-Vehicle Networking (IVN) R&D Engineer
   - Mahindra Research Valley - Automotive Division, Chennai, India
   - Model-Based Development (MBD) and ECU-level testing and simulation of IVN networking protocols and DSP-based noise detection and error analysis on vehicle-level Controller Area Network (CAN) messages.
+
+## Education
+
+<div style="display: flex; justify-content: space-between;">
+  <span>M.S. in Electrical Engineering (University of Southern California); GPA: 3.75/4.0</span>
+  <span><strong>Aug 2016 – May 2018</strong></span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>B.Tech. in Electronics and Communication (Siksha ’O’ Anushandhan University); GPA: 9.61/10.0</span>
+  <span><strong>July 2009 – June 2013</strong></span>
+</div>
+
+{% include_relative _includes/publications.md %}
+
+<!-- {% include_relative _includes/services.md %} -->

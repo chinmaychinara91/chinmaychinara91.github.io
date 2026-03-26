@@ -13,12 +13,12 @@ My work sits at the intersection of engineering and applied research. I’ve con
 MATLAB, Python, C++, C#, PyTorch, XR, Unity3D, Unreal Engine, Git, Docker, Adobe (Photoshop, Lightroom, Premiere Pro)
 
 ## Work Experience
-- September 2023 - Present: Programmer Analyst II
-  - USC Viterbi School of Engineering - Biomedical Imaging Lab, Loas Angeles, CA, USA
+- Programmer Analyst II (September 2023 - Present)
+  - <u>USC Viterbi School of Engineering, Los Angeles, CA, USA</u>
   - Develop, maintain and document [Brainstorm](https://neuroimage.usc.edu/brainstorm/Introduction), a globally used MATLAB-based cross-platform standalone open-source tool for electrophysiology analysis.
  
-- Oct 2016 - August 2023: Programmer Analyst I & II
-  - USC Institute of Creative Technologies, Playa Vista, CA, USA
+- Programmer Analyst I & II (Oct 2016 - August 2023)
+  - <u>USC Institute of Creative Technologies, Playa Vista, CA, USA</u>
   - [MedVR](https://ict.usc.edu/research/labs-groups/medical-virtual-reality/): Built an open-source Unity based SDK called Open Medical Gesture (OpenMG) that has a generic
     hand model supporting most sensors/VR devices that have hand-tracking for much more realistic interactions with virtual objects. Collaborated with vendors for medical simulation trials. 
     (Hands-on demo at IMSH 2022)
@@ -31,8 +31,8 @@ MATLAB, Python, C++, C#, PyTorch, XR, Unity3D, Unreal Engine, Git, Docker, Adobe
     data from Pupil Labs’ cameras tethered to HoloLens to generate 3D avatars that remove occlusion and enable natural face-to-face AR interaction. (Oral presentation at HCII 2018)
   - [MxR](https://mxr.ict.usc.edu/): Built multiple mixed reality applications using HoloLens and Oculus headsets.
  
-- August 2013 - July 2016: In-Vehicle Networking (IVN) R&D Engineer
-  - Mahindra Research Valley - Automotive Division, Chennai, India
+- In-Vehicle Networking (IVN) R&D Engineer (August 2013 - July 2016)
+  - <u>Mahindra Research Valley - Automotive Division, Chennai, India</u>
   - Model-Based Development (MBD) and ECU-level testing and simulation of IVN networking protocols and DSP-based noise detection and error analysis on vehicle-level Controller Area Network (CAN) messages.
 
 ## Education

@@ -28,10 +28,19 @@ main:
     image: ./assets/img/timefreq.jpg
   
   - title: "Face to Face Augmented Reality - Broadening the Horizons of AR Communication"
-    authors: Aakash Dhananjay Shanbhag; <em><strong>Chinmay Chinara</strong></em>
+    authors: Aakash Dhananjay Shanbhag, <em><strong>Chinmay Chinara</strong></em>
     conference_short: ICECET
     conference: International Conference on Electrical, Computer and Energy Technologies (ICECET 2023)
     pdf: https://www.researchgate.net/publication/377617681_Face_to_Face_Augmented_Reality_-_Broadening_the_Horizons_of_AR_Communication
     code: https://github.com/chinmaychinara91/ICT_Face2FaceChat_AR
     page: https://ieeexplore.ieee.org/abstract/document/10389393
     image: ./assets/img/face2face.png
+  
+  - title: "Open Medical Gesture: An Open-Source Experiment in Naturalistic Physical Interactions for Mixed and Virtual Reality Simulations"
+    authors: Thomas Brett Talbot, <em><strong>Chinmay Chinara</strong></em>
+    conference_short: AHFE
+    conference: Accelerating Open Access Science in Human Factors Engineering and Human-Centered Computing (AHFE 2022)
+    pdf: https://openaccess-api.cms-conferences.org/articles/download/978-1-958651-26-1_0
+    code: https://github.com/chinmaychinara91/open-medical-gesture
+    page: https://openaccess.cms-conferences.org/publications/book/978-1-958651-26-1/article/978-1-958651-26-1_0
+    image: ./assets/img/openmg.png

@@ -35,12 +35,12 @@ My work sits at the intersection of engineering and applied research. I’ve con
 
 <div style="display: flex; justify-content: space-between;">
   <span>M.S. in Electrical Engineering (University of Southern California)</span>
-  <span><strong>Aug 2016 – May 2018</strong></span>
+  <span><strong>2016 – 2018</strong></span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
   <span>B.Tech. in Electronics and Communication (Siksha ’O’ Anushandhan University)</span>
-  <span><strong>July 2009 – June 2013</strong></span>
+  <span><strong>2009 – 2013</strong></span>
 </div>
 
 

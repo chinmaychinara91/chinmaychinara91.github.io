@@ -1,5 +1,5 @@
 main:
-  - title: sEEG-Suite - An Interactive Pipeline for Semi-Automated Contact Localization and Anatomical Labeling with Brainstorm
+  - title: "sEEG-Suite: An Interactive Pipeline for Semi-Automated Contact Localization and Anatomical Labeling with Brainstorm"
     authors: <em><strong>Chinmay Chinara</strong></em>, Raymundo Cassani, Takfarinas Medani, Anand A. Joshi, Samuel Medina Villalon, Yash S. Vakilna, Johnson P. Hampson, Kenneth Taylor, Francois Tadel, Dileep Nair, Christian G. Bénar, Sylvain Baillet, John C. Mosher, Richard M. Leahy
     conference_short: bioRxiv
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.16.676602v1.full.pdf
@@ -8,10 +8,10 @@ main:
     image: ./assets/img/seegsuite.png
     notes: under review at <a href="https://github.com/openjournals/joss-reviews/issues/9190">JOSS</a>
 
-  - title: Multi-Compartment Volume Conductor with Complete Electrode Model: Simulated Stereo-EEG Source Localization using Brainstorm-Zeffiro Plugin
+  - title: "Multi-Compartment Volume Conductor with Complete Electrode Model: Simulated Stereo-EEG Source Localization using Brainstorm-Zeffiro Plugin"
     authors: Fernando Galaz Prieto, Takfarinas Medani, <em><strong>Chinmay Chinara</strong></em>, Richard M. Leahy, Sampsa Pursiainen
     conference_short: arXiv
     pdf: https://arxiv.org/pdf/2602.00684
     code: https://github.com/brainstorm-tools/brainstorm3
     page: https://neuroimage.usc.edu/brainstorm/Tutorials/FemMesh?highlight=%28zeffiro%29#Zeffiro
-    image: ./assets/img/zeffiro.jpg    
+    image: ./assets/img/zeffiro.jpg

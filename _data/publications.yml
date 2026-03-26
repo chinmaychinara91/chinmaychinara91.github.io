@@ -3,8 +3,8 @@ main:
     authors: Chinmay Chinara, Raymundo Cassani, Takfarinas Medani, Anand A Joshi, Samuel Medina Villalon, Yash S Vakilna, Johnson P Hampson, Kenneth Taylor, Francois Tadel, Dileep Nair, Christian G Bénar, Sylvain Baillet, John C Mosher, Richard M Leahy
     conference_short: bioRxiv
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.16.676602v1.full.pdf
-    code: https://github.com/brainstorm-tools/brainstorm3
     page: https://neuroimage.usc.edu/brainstorm/seeg/ct2mri
+    code: https://github.com/brainstorm-tools/brainstorm3    
     image: ./assets/img/seegsuite.png
     notes: under review at <a href="https://github.com/openjournals/joss-reviews/issues/9190">JOSS</a>
 

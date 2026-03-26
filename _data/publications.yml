@@ -1,7 +1,6 @@
 main:
   - title: "Multi-Compartment Volume Conductor with Complete Electrode Model: Simulated Stereo-EEG Source Localization using Brainstorm-Zeffiro Plugin"
     authors: Fernando Galaz Prieto, Takfarinas Medani, <em><strong>Chinmay Chinara</strong></em>, Richard M. Leahy, Sampsa Pursiainen
-    conference_short: arXiv
     conference: arXiv preprint (2026)
     pdf: https://arxiv.org/pdf/2602.00684
     code: https://github.com/brainstorm-tools/brainstorm3
@@ -10,7 +9,6 @@ main:
   
   - title: "sEEG-Suite: An Interactive Pipeline for Semi-Automated Contact Localization and Anatomical Labeling with Brainstorm"
     authors: <em><strong>Chinmay Chinara</strong></em>, Raymundo Cassani, Takfarinas Medani, Anand A. Joshi, Samuel Medina Villalon, Yash S. Vakilna, Johnson P. Hampson, Kenneth Taylor, Francois Tadel, Dileep Nair, Christian G. Bénar, Sylvain Baillet, John C. Mosher, Richard M. Leahy
-    conference_short: bioRxiv
     conference: bioRxiv preprint (2025)
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.16.676602v1.full.pdf
     code: https://github.com/brainstorm-tools/brainstorm3
@@ -20,7 +18,6 @@ main:
   
   - title: "Time-Frequency Fingerprint Analysis in SEEG Source-Space to Identify the Epileptogenic Zone"
     authors: Yash Shashank Vakilna, Deniz Atilgan, Johnson Hampson, <em><strong>Chinmay Chinara</strong></em>, Takfarinas Medani, Richard M. Leahy, Nuria Lacuey, Samden D. Lhatoo, Sandipan Pati, John C. Mosher, Jay R. Gavvala
-    conference_short: Annals Neurology
     conference: Annals of Clinical and Translational Neurology Journal (2025)
     pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.70115
     code: https://github.com/brainstorm-tools/brainstorm3
@@ -29,7 +26,6 @@ main:
   
   - title: "Face to Face Augmented Reality - Broadening the Horizons of AR Communication"
     authors: Aakash Dhananjay Shanbhag, <em><strong>Chinmay Chinara</strong></em>
-    conference_short: ICECET
     conference: International Conference on Electrical, Computer and Energy Technologies (ICECET 2023)
     pdf: https://www.researchgate.net/publication/377617681_Face_to_Face_Augmented_Reality_-_Broadening_the_Horizons_of_AR_Communication
     code: https://github.com/chinmaychinara91/ICT_Face2FaceChat_AR
@@ -37,7 +33,6 @@ main:
   
   - title: "Open Medical Gesture: An Open-Source Experiment in Naturalistic Physical Interactions for Mixed and Virtual Reality Simulations"
     authors: Thomas Brett Talbot, <em><strong>Chinmay Chinara</strong></em>
-    conference_short: AHFE
     conference: Accelerating Open Access Science in Human Factors Engineering and Human-Centered Computing (AHFE 2022)
     pdf: https://openaccess-api.cms-conferences.org/articles/download/978-1-958651-26-1_0
     code: https://github.com/chinmaychinara91/open-medical-gesture
@@ -45,7 +40,6 @@ main:
   
   - title: "Learning Formation of Physically-Based Face Attributes"
     authors: Ruilong Li, Karl Bladin, Yajie Zhao, <em><strong>Chinmay Chinara</strong></em>, Owen Ingraham, Pengda Xiang, Xinglei Ren, Pratusha Prasad, Bipin Kishore, Jun Xing, Hao Li
-    conference_short: CVPR
     conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR, 2020)
     pdf: https://arxiv.org/pdf/2004.03458.pdf
     code: https://github.com/ICT-VGL/ICT-FaceKit
@@ -54,7 +48,6 @@ main:
   
   - title: "ARnold: A Mixed Reality Short Film using Microsoft HoloLens"
     authors: <em><strong>Chinmay Chinara</strong></em>, Greg Feingold, Aakash Shanbhag, Kacey Weiniger
-    conference_short: SMPTE
     conference: Society of Motion Picture and Television Engineers (SMPTE, 2017)
     pdf: https://www.researchgate.net/publication/323194166_ARnold_A_Mixed_Reality_Short_Film_using_Microsoft_HoloLens
     code: https://github.com/chinmaychinara91/ARnold-A-Mixed-Reality-Short-Film

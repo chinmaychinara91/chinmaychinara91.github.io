@@ -41,7 +41,7 @@ main:
     conference: Accelerating Open Access Science in Human Factors Engineering and Human-Centered Computing (AHFE 2022)
     pdf: https://openaccess-api.cms-conferences.org/articles/download/978-1-958651-26-1_0
     code: https://github.com/chinmaychinara91/open-medical-gesture
-    image: ./assets/img/openmg.png
+    image: ./assets/img/openmg.gif
   
   - title: "Learning Formation of Physically-Based Face Attributes"
     authors: Ruilong Li, Karl Bladin, Yajie Zhao, <em><strong>Chinmay Chinara</strong></em>, Owen Ingraham, Pengda Xiang, Xinglei Ren, Pratusha Prasad, Bipin Kishore, Jun Xing, Hao Li

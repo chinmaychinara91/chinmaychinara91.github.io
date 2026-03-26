@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a software engineer and researcher building tools across open-source scientific software, electrophysiology, XR, and computer vision. I currently work as a Programmer Analyst at University of Southern California, where I collaboratively develop and maintain Brainstorm, a globally used MATLAB-based open-source platform for electrophysiology analysis. Previously, I spent several years at USC’s Institute for Creative Technologies building mixed reality, medical simulation, digital avatars, and computer vision applications.
+
+My work sits at the intersection of engineering and applied research. I’ve contributed to open-source SDKs for realistic hand interaction in VR, AR systems for natural face-to-face communication, brain visualization tools, and semi-automated intracranial electrode localization workflows. I enjoy building software that is technically strong, practical to use, and meaningful in research or clinical settings.
 
 ## Research Interests
 

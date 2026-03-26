@@ -32,6 +32,5 @@ main:
     conference_short: ICECET
     conference: International Conference on Electrical, Computer and Energy Technologies (ICECET 2023)
     pdf: https://www.researchgate.net/publication/377617681_Face_to_Face_Augmented_Reality_-_Broadening_the_Horizons_of_AR_Communication
-    code: https://github.com/brainstorm-tools/brainstorm3
-    page: https://neuroimage.usc.edu/brainstorm/seeg/SeizureFingerprinting
+    code: https://github.com/chinmaychinara91/ICT_Face2FaceChat_AR
     image: ./assets/img/face2face.png

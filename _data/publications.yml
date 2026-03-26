@@ -15,3 +15,12 @@ main:
     code: https://github.com/brainstorm-tools/brainstorm3
     page: https://neuroimage.usc.edu/brainstorm/Tutorials/FemMesh?highlight=%28zeffiro%29#Zeffiro
     image: ./assets/img/zeffiro.jpg
+  
+  - title: "Time-Frequency Fingerprint Analysis in SEEG Source-Space to Identify the Epileptogenic Zone"
+    authors: Yash Shashank Vakilna, Deniz Atilgan, Johnson Hampson, <em><strong>Chinmay Chinara</strong></em>, Takfarinas Medani, Richard M. Leahy, Nuria Lacuey, Samden D. Lhatoo, Sandipan Pati, John C. Mosher, Jay R. Gavvala
+    conference_short: Annals
+    conference: Annals of Clinical and Translational Neurology Journal (September 2025)
+    pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.70115
+    code: https://github.com/brainstorm-tools/brainstorm3
+    page: https://neuroimage.usc.edu/brainstorm/seeg/SeizureFingerprinting
+    image: ./assets/img/timefreq.jpg

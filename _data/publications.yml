@@ -8,11 +8,10 @@ main:
     image: ./assets/img/seegsuite.png
     notes: under review at <a href="https://github.com/openjournals/joss-reviews/issues/9190">JOSS</a>
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example.png    
+  - title: "Multi-Compartment Volume Conductor with Complete Electrode Model: Simulated Stereo-EEG Source Localization using Brainstorm-Zeffiro Plugin"
+    authors: Fernando Galaz Prieto, Takfarinas Medani, <em><strong>Chinmay Chinara</strong></em>, Richard M. Leahy, Sampsa Pursiainen
+    conference_short: arXiv
+    pdf: https://arxiv.org/pdf/2602.00684
+    code: https://github.com/brainstorm-tools/brainstorm3
+    page: https://neuroimage.usc.edu/brainstorm/Tutorials/FemMesh?highlight=%28zeffiro%29#Zeffiro
+    image: ./assets/img/zeffiro.jpg    

@@ -53,3 +53,11 @@ main:
     code: https://github.com/ICT-VGL/ICT-FaceKit
     page: https://vgl.ict.usc.edu/Research/Deep3DMM/
     image: ./assets/img/ictfacekit.png
+  
+  - title: "ARnold: A Mixed Reality Short Film using Microsoft HoloLens"
+    authors: <em><strong>Chinmay Chinara</strong></em>, Greg Feingold, Aakash Shanbhag, Kacey Weiniger
+    conference_short: SMPTE
+    conference: Society of Motion Picture and Television Engineers (SMPTE, 2017)
+    pdf: https://www.researchgate.net/publication/323194166_ARnold_A_Mixed_Reality_Short_Film_using_Microsoft_HoloLens
+    code: https://github.com/chinmaychinara91/ARnold-A-Mixed-Reality-Short-Film
+    image: ./assets/img/arnold.png

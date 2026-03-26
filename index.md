@@ -42,15 +42,5 @@ My work sits at the intersection of engineering and applied research. I’ve con
   <span>B.Tech. in Electronics and Communication (Siksha ’O’ Anushandhan University)</span>
   <span><strong>2009 – 2013</strong></span>
 </div>
-
-
-
-
-
+<br>
 {% include_relative _includes/publications.md %}
-
-
-
-
-
-<!-- {% include_relative _includes/services.md %} -->

@@ -1,6 +1,6 @@
 main:
   - title: sEEG-Suite - An Interactive Pipeline for Semi-Automated Contact Localization and Anatomical Labeling with Brainstorm
-    authors: <em><strong>Chinmay Chinara</strong></em>, Raymundo Cassani, Takfarinas Medani, Anand A Joshi, Samuel Medina Villalon, Yash S Vakilna, Johnson P Hampson, Kenneth Taylor, Francois Tadel, Dileep Nair, Christian G Bénar, Sylvain Baillet, John C Mosher, Richard M Leahy
+    authors: <em><strong>Chinmay Chinara</strong></em>, Raymundo Cassani, Takfarinas Medani, Anand A. Joshi, Samuel Medina Villalon, Yash S. Vakilna, Johnson P. Hampson, Kenneth Taylor, Francois Tadel, Dileep Nair, Christian G. Bénar, Sylvain Baillet, John C. Mosher, Richard M. Leahy
     conference_short: bioRxiv
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.16.676602v1.full.pdf
     code: https://github.com/brainstorm-tools/brainstorm3

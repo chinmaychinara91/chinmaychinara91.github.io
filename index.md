@@ -10,7 +10,7 @@ My work sits at the intersection of engineering and applied research. I’ve con
 
 ## Skills
 
-MATLAB, Python, C++, C#, PyTorch, XR, Unity3D, Unreal Engine, Git, Docker, Adobe (Photoshop, Lightroom, Premiere Pro)
+MATLAB, Python, C++, C#, PyTorch, XR, Unity3D, Unreal Engine, Git, Docker, CI/CD, Adobe (Photoshop, Lightroom, Premiere Pro)
 
 ## Work Experience
 - Programmer Analyst II (September 2023 - Present)

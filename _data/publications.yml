@@ -1,4 +1,12 @@
 main:
+  - title: "Learning Cross-Joint Attention for Generalizable Video-Based Seizure Detection"
+    authors: Omar Zamzam, Takfarinas Medani, <em><strong>Chinmay Chinara</strong></em>, Richard Leahy
+    conference: arXiv preprint (2026)
+    pdf: https://arxiv.org/abs/2603.23757
+    code: https://github.com/OmarSZamzam/joint-attention-seizure-detection
+    image: ./assets/img/seizure.png
+    notes: submitted to <a href="https://miccai.org/">MICCAI 2026</a>
+    
   - title: "Multi-Compartment Volume Conductor with Complete Electrode Model: Simulated Stereo-EEG Source Localization using Brainstorm-Zeffiro Plugin"
     authors: Fernando Galaz Prieto, Takfarinas Medani, <em><strong>Chinmay Chinara</strong></em>, Richard M. Leahy, Sampsa Pursiainen
     conference: arXiv preprint (2026)

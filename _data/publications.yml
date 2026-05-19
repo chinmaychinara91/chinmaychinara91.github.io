@@ -22,7 +22,7 @@ main:
     code: https://github.com/brainstorm-tools/brainstorm3
     page: https://neuroimage.usc.edu/brainstorm/seeg/ct2mri
     image: ./assets/img/seegsuite.gif
-    notes: under review at <a href="https://github.com/openjournals/joss-reviews/issues/9190">JOSS</a>
+    notes: under review at <a href="https://github.com/openjournals/joss-reviews/issues/10490">JOSS</a>
   
   - title: "Time-Frequency Fingerprint Analysis in SEEG Source-Space to Identify the Epileptogenic Zone"
     authors: Yash Shashank Vakilna, Deniz Atilgan, Johnson Hampson, <em><strong>Chinmay Chinara</strong></em>, Takfarinas Medani, Richard M. Leahy, Nuria Lacuey, Samden D. Lhatoo, Sandipan Pati, John C. Mosher, Jay R. Gavvala
